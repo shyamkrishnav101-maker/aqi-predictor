@@ -1,3 +1,4 @@
  # aqi-predictor
 air quality index prediction
-new info.   
+new info.   git status
+added new
